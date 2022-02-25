@@ -1,0 +1,1 @@
+upload_progress_|a:5:{s:10:"start_time";i:1645611997;s:14:"content_length";i:802;s:15:"bytes_processed";i:802;s:4:"done";b:0;s:5:"files";a:1:{i:0;a:7:{s:10:"field_name";s:4:"file";s:4:"name";s:8:"www.conf";s:8:"tmp_name";N;s:5:"error";i:0;s:4:"done";b:0;s:10:"start_time";i:1645611997;s:15:"bytes_processed";i:802;}}}
